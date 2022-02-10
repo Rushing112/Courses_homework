@@ -1,0 +1,15 @@
+HW Web_Form testing
+ 1. Сделать общий чеклист проверки фебформы
+https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=595610342
+ 2. Сделать отдельные чекист по технике Гриничных значений
+https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=398510823
+ 3. Сделать отдельные чекист по технике Классов эквивалентности
+ https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=546033214
+ 4. Сделать отдельные чекист по технике Попарное тестирование.
+ https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=1152841318
+ 5. Сделать Список баг репортов
+ https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=548147615
+ 6. Сделать список улучшений (Требования к форме. Посмотрите Критерии хорошего требования)
+ https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=462284045
+ 7. Написать 5-8 отдельных Тест-Кейсов.
+ https://docs.google.com/spreadsheets/d/1uWegahjlvN8zt2HfldBxnSPTw-rAiwk5NQPUh9O8F2o/edit#gid=616757177
